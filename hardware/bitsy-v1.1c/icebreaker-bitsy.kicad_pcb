@@ -13145,6 +13145,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-48_7x7mm_P0.5mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "pkl_dipol:R_Array_Convex_4x0402"
 		(layer "F.Cu")
@@ -14141,7 +14152,7 @@
 		(descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J1"
-			(at 0 -5.645 270)
+			(at 0 -5.645 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "fd96eee3-661b-451e-a7d0-a3a111a01e5e")
@@ -14153,7 +14164,7 @@
 			)
 		)
 		(property "Value" "USB_C"
-			(at 0 5.1 270)
+			(at 0 5.1 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "71babffc-331e-434f-b992-f85eefd0ab79")
@@ -14165,7 +14176,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7c05386f-21c5-4819-8f28-15df38da1948")
@@ -14177,7 +14188,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56bea3b5-c586-4c15-8923-4eae4f16cf83")
@@ -14339,7 +14350,7 @@
 			(uuid "b4ef2b9e-7cfa-49a0-9088-82b913572324")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "a72b628a-238a-4511-a504-1ccf1c367edd")
 			(effects
@@ -14610,6 +14621,17 @@
 		(model "${KIPRJMOD}/../../lib/pkl/packages3d/pkl_connectors.3dshapes/HRO_TYPE-C-31-M-12.step"
 			(offset
 				(xyz -4.465 -3.65 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
+			(offset
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -15036,6 +15058,17 @@
 			(uuid "7224c9b1-4dc0-4b37-9eea-71ff7cd3590c")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/TS-1088-AR02016--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
