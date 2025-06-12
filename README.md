@@ -1,6 +1,6 @@
 # iCEBreaker FPGA
 
-Thiz repository is to update the Bitsy 1.1c so it has JLCPCB part numbers and can be ordered.
+This repository is to update the Bitsy 1.1c so it has JLCPCB part numbers and can be ordered.
 
 [![Discord](https://img.shields.io/discord/613131135903596547?logo=discord)](https://discord.gg/P7FYThy) [![Support our crowd funding campaign at https://www.crowdsupply.com/1bitsquared/icebreaker-fpga](https://img.shields.io/badge/crowd_supply-support_us-27B1AC.svg)](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga)
 
