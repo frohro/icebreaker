@@ -18097,7 +18097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Make your own"
+		(property "Footprint" "SWitch:TS-1088-AR02016"
 			(at 91.44 74.295 0)
 			(effects
 				(font
