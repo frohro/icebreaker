@@ -13810,7 +13810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
+		(property "Footprint" "WSON-Library:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm"
 			(at 45.72 177.8 0)
 			(effects
 				(font
@@ -13819,7 +13819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588918790058467328"
 			(at 45.72 177.8 0)
 			(effects
 				(font
@@ -13855,7 +13855,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2613930"
+		(property "LCSC" "C2441427"
 			(at 45.72 177.8 0)
 			(effects
 				(font
@@ -14268,7 +14268,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C326872"
 			(at 73.66 142.24 90)
 			(effects
 				(font
@@ -14381,7 +14381,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C326872"
 			(at 76.2 142.24 90)
 			(effects
 				(font
@@ -14494,7 +14494,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C326872"
 			(at 276.86 114.3 90)
 			(effects
 				(font
@@ -14607,7 +14607,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C326872"
 			(at 71.12 142.24 90)
 			(effects
 				(font
